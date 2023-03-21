@@ -1,6 +1,6 @@
 # Tomás Hernández 👨‍💻 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=thernandez03&label=Profile_Views"/>
 
-<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=thernandez03&theme=github_dark&langs_count=3&hide=php,java,objective-c&count_private=true&show_icons=true"/>
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=thernandez03&theme=github_dark&langs_count=8&layout=compact&hide=php,java,objective-c,python,batchfile&count_private=true&show_icons=true"/>
 
 Professional with 10 years of experience as a Full-stack JavaScript developer, I’m a very dedicated person with a high domain in structuring, modularization and code optimization. Always giving my best, focused on finishing my goals, working hard and responsibly. I’m very motivated working on ambitious projects with big challenges, I also like to get in constant learning making sure to be at the forefront of technologies and sharing my knowledge with people that I'm working with.
 
