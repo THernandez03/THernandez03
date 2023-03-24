@@ -4,9 +4,9 @@
 
 Professional with 10 years of experience as a Full-stack JavaScript developer, I’m a very dedicated person with a high domain in structuring, modularization and code optimization. Always giving my best, focused on finishing my goals, working hard and responsibly. I’m very motivated working on ambitious projects with big challenges, I also like to get in constant learning making sure to be at the forefront of technologies and sharing my knowledge with people that I'm working with.
 
-[![Gmail Badge](https://img.shields.io/badge/Email-Reveal-DB4437?style=for-the-badge&logo=gmail&logoColor=FFFFFF&link=https://email.thernandez.dev)](https://email.thernandez.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/thernandez03-0072B1?style=for-the-badge&logo=linkedin&logoColor=ffffff&link=https://linkedin.thernandez.dev)](https://linkedin.thernandez.dev)
 [![GitHub Badge](https://img.shields.io/badge/THernandez03-171515?style=for-the-badge&logo=github&logoColor=ffffff&link=https://github.thernandez.dev)](https://github.thernandez.dev)
+[![Gmail Badge](https://img.shields.io/badge/-Email-DB4437?style=for-the-badge&logo=gmail&logoColor=FFFFFF&link=https://email.thernandez.dev)](https://email.thernandez.dev)
 
 ## Technologies 
 [![Web](https://img.shields.io/badge/-🌐_Web-141414?style=flat-square)](https://developer.mozilla.org/docs/Web)
