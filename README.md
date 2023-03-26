@@ -8,7 +8,7 @@ Professional with 10 years of experience as a Full-stack JavaScript developer, I
 [![GitHub Badge](https://img.shields.io/badge/THernandez03-171515?style=for-the-badge&logo=github&logoColor=ffffff&link=https://github.thernandez.dev)](https://github.thernandez.dev)
 [![Gmail Badge](https://img.shields.io/badge/-Email-DB4437?style=for-the-badge&logo=gmail&logoColor=FFFFFF&link=https://email.thernandez.dev)](https://email.thernandez.dev)
 
-## Technologies 
+## Technologies
 [![Web](https://img.shields.io/badge/-🌐_Web-141414?style=flat-square)](https://developer.mozilla.org/docs/Web)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-141414?style=flat-square&logo=Node.js&logoColor=339933)](https://nodejs.org)
 [![Deno](https://img.shields.io/badge/-Deno-141414?style=flat-square&logo=deno&logoColor=000000)](https://deno.land)
@@ -92,4 +92,6 @@ Professional with 10 years of experience as a Full-stack JavaScript developer, I
 [![i18next](https://img.shields.io/badge/-i18next-141414?style=flat-square&logo=i18next&logoColor=26A69A)](https://www.i18next.com)
 [![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat-square&logo=markdown&logoColor=000000)](https://www.markdownguide.org)
 [![JSON Web Tokens](https://img.shields.io/badge/-JSON_Web_Tokens-141414?style=flat-square&logo=jsonwebtokens&logoColor=000000)](https://jwt.io)
-[![Material Design](https://img.shields.io/badge/-Next.js-141414?style=flat-square&logo=nextjs&logoColor=757575)](https://m3.material.io)
+[![Material Design](https://img.shields.io/badge/-Material_Design-141414?style=flat-square&logo=materialdesign&logoColor=757575)](https://m3.material.io)
+[![Material Design Icons](https://img.shields.io/badge/-Material_Design_Icons-141414?style=flat-square&logo=materialdesignicons&logoColor=2196F3)](https://github.com/google/material-design-icons)
+[![Material UI](https://img.shields.io/badge/-MUI-141414?style=flat-square&logo=mui&logoColor=007FFF)](https://mui.com)
